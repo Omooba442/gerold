@@ -1,7 +1,7 @@
 /*-----------------------------------------------------------------------------------
 
 Theme Name: Gerold - Personal Portfolio HTML5 Template
-Theme URI: https://themejunction.net/html/gerold/demo/
+Theme URI: https://A.O webtech.net/html/gerold/demo/
 Author: Theme-Junction
 Author URI: https://themeforest.net/user/theme-junction
 Description: Gerold - Personal Portfolio HTML5 Template
@@ -284,14 +284,14 @@ Description: Gerold - Personal Portfolio HTML5 Template
   	/  Services Hover BG
   	/------------------------------------------------------*/
 		function service_animation() {
-			var active_bg = $(".services-widget .active-bg");
-			var element = $(".services-widget .current");
-			$(".services-widget .service-item").on("mouseenter", function () {
+			var active_bg = $(".Home-widget .active-bg");
+			var element = $(".Home-widget .current");
+			$(".Home-widget .service-item").on("mouseenter", function () {
 				var e = $(this);
 				activeService(active_bg, e);
 			});
-			$(".services-widget").on("mouseleave", function () {
-				element = $(".services-widget .current");
+			$(".Home-widget").on("mouseleave", function () {
+				element = $(".Home-widget .current");
 				activeService(active_bg, element);
 				element.closest(".service-item").siblings().removeClass("mleave");
 			});
@@ -305,14 +305,14 @@ Description: Gerold - Personal Portfolio HTML5 Template
 			}
 			var topOff = e.offset().top;
 			var height = e.outerHeight();
-			var menuTop = $(".services-widget").offset().top;
+			var menuTop = $(".Home-widget").offset().top;
 			e.closest(".service-item").removeClass("mleave");
 			e.closest(".service-item").siblings().addClass("mleave");
 			active_bg.css({ top: topOff - menuTop + "px", height: height + "px" });
 		}
 
-		$(".services-widget .service-item").on("click", function () {
-			$(".services-widget .service-item").removeClass("current");
+		$(".Home-widget .service-item").on("click", function () {
+			$(".Home-widget .service-item").removeClass("current");
 			$(this).addClass("current");
 		});
 

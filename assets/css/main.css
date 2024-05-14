@@ -1,7 +1,7 @@
 /*-----------------------------------------------------------------------------------
 
 Theme Name: Gerold - Personal Portfolio HTML5 Template
-Theme URI: https://themejunction.net/html/gerold/demo/
+Theme URI: https://A.O webtech.net/html/gerold/demo/
 Author: Theme-Junction
 Author URI: https://themeforest.net/user/theme-junction
 Description: Gerold - Personal Portfolio HTML5 Template
@@ -55,9 +55,9 @@ Description: Gerold - Personal Portfolio HTML5 Template
 	--tj-black: #000000;
 	--tj-black-2: #050709;
 	--tj-heading-primary: #102039;
-	--tj-heading-secondary: #ea1826;
-	--tj-theme-primary: #8750f7;
-	--tj-theme-secondary: #2a1454;
+	--tj-heading-secondary: #FFB426;
+	--tj-theme-primary: #327252;
+	--tj-theme-secondary: #FFB426;
 	--tj-theme-accent-1: #0f0715;
 	--tj-theme-accent-2: #140c1c;
 	--tj-grey-1: #747779;
@@ -465,6 +465,8 @@ a h6:hover {
 	color: var(--tj-theme-accent-1);
 }
 /* END: Theme Default CSS */
+
+
 
 /*
 * ===============================
@@ -991,6 +993,7 @@ body.loaded {
 	-webkit-text-fill-color: transparent;
 }
 
+
 .hero-content-box .lead {
 	max-width: 550px;
 	width: 100%;
@@ -1067,27 +1070,27 @@ body.loaded {
 *  START: Services Section
 * ===============================
 */
-.services-section {
+.Home-section {
 	padding-top: 120px;
 	padding-bottom: 120px;
 	background-color: var(--tj-black-2);
 }
-.services-section .section-header {
+.Home-section .section-header {
 	margin-left: auto;
 	margin-right: auto;
 }
-.services-widget > a {
+.Home-widget > a {
 	color: inherit;
 	text-decoration: none;
 }
-.services-widget .service-item {
+.Home-widget .service-item {
 	border-bottom: 1px solid var(--tj-theme-secondary);
 	padding: 0 30px;
 	position: relative;
 	z-index: 2;
 	gap: 20px;
 }
-.services-widget .service-item .number {
+.Home-widget .service-item .number {
 	color: var(--tj-theme-primary);
 	font-size: 20px;
 	font-weight: var(--tj-fw-bold);
@@ -1095,34 +1098,34 @@ body.loaded {
 	-o-transition: all 0.5s ease;
 	transition: all 0.5s ease;
 }
-.services-widget .service-item.current .number {
+.Home-widget .service-item.current .number {
 	color: var(--tj-white);
 }
-.services-widget .service-item.current.mleave .number {
+.Home-widget .service-item.current.mleave .number {
 	color: var(--tj-theme-primary);
 }
-.services-widget .service-item:hover .number {
+.Home-widget .service-item:hover .number {
 	color: var(--tj-white);
 }
-.services-widget .service-item .left-box {
+.Home-widget .service-item .left-box {
 	width: calc(40% - 10px);
 	padding: 30px 0;
 	gap: 20px;
 }
-.services-widget .service-item .left-box .service-title {
+.Home-widget .service-item .left-box .service-title {
 	font-size: 30px;
 	margin-bottom: 0;
 	text-transform: capitalize;
 }
-.services-widget .service-item .right-box {
+.Home-widget .service-item .right-box {
 	width: calc(60% - 10px);
 	padding: 30px 0;
 	padding-right: 15%;
 }
-.services-widget .service-item .right-box p:last-child {
+.Home-widget .service-item .right-box p:last-child {
 	margin-bottom: 0;
 }
-.services-widget .active-bg {
+.Home-widget .active-bg {
 	top: 0px;
 	bottom: 0px;
 	left: 0px;
@@ -1144,7 +1147,7 @@ body.loaded {
 	-o-transition: all 0.5s ease;
 	transition: all 0.5s ease;
 }
-.services-widget i {
+.Home-widget i {
 	font-size: 20px;
 	line-height: 1;
 	position: absolute;
@@ -1158,25 +1161,25 @@ body.loaded {
 	transition: all 0.5s ease;
 	color: var(--tj-theme-primary);
 }
-.services-widget .service-item.current i {
+.Home-widget .service-item.current i {
 	-webkit-transform: translateY(-50%) rotate(0deg);
 	-ms-transform: translateY(-50%) rotate(0deg);
 	transform: translateY(-50%) rotate(0deg);
 	color: var(--tj-white);
 }
-.services-widget .service-item.current.mleave i {
+.Home-widget .service-item.current.mleave i {
 	-webkit-transform: translateY(-50%) rotate(90deg);
 	-ms-transform: translateY(-50%) rotate(90deg);
 	transform: translateY(-50%) rotate(90deg);
 	color: var(--tj-theme-primary);
 }
-.services-widget .service-item:hover i {
+.Home-widget .service-item:hover i {
 	-webkit-transform: translateY(-50%) rotate(0deg);
 	-ms-transform: translateY(-50%) rotate(0deg);
 	transform: translateY(-50%) rotate(0deg);
 	color: var(--tj-white);
 }
-.services-widget .service-item .service-link {
+.Home-widget .service-item .service-link {
 	border: none;
 	padding: 0;
 	margin: 0;
@@ -1242,6 +1245,14 @@ body.loaded {
 *  START: Portfolio Section
 * ===============================
 */
+a {
+	color: var(--tj-body);
+	cursor: pointer;
+	outline: none;
+}
+a:hover{
+	color: var(--tj-black-2);
+}
 .portfolio-section {
 	padding-top: 120px;
 	padding-bottom: 80px;
@@ -3141,20 +3152,20 @@ blockquote cite::before {
 	letter-spacing: 0.02em;
 	margin-bottom: 0;
 }
-.sidebar_widget.services_list ul {
+.sidebar_widget.Home_list ul {
 	padding: 0;
 	margin: 0;
 	list-style: none;
 }
-.sidebar_widget.services_list ul li {
+.sidebar_widget.Home_list ul li {
 	display: flex;
 	width: 100%;
 	align-items: center;
 }
-.sidebar_widget.services_list ul li:not(:last-child) {
+.sidebar_widget.Home_list ul li:not(:last-child) {
 	margin-bottom: 5px;
 }
-.sidebar_widget.services_list ul li button {
+.sidebar_widget.Home_list ul li button {
 	display: flex;
 	align-items: start;
 	width: 100%;
@@ -3169,7 +3180,7 @@ blockquote cite::before {
 	position: relative;
 	z-index: 1;
 }
-.sidebar_widget.services_list ul li button::before {
+.sidebar_widget.Home_list ul li button::before {
 	content: "\f105";
 	font-family: var(--tj-ff-fontawesome);
 	font-weight: var(--tj-fw-normal);
@@ -3178,15 +3189,15 @@ blockquote cite::before {
 	top: 16px;
 }
 
-.sidebar_widget.services_list ul li:hover button {
+.sidebar_widget.Home_list ul li:hover button {
 	background-color: var(--tj-theme-secondary);
 	color: var(--tj-white);
 }
-.sidebar_widget.services_list ul li.active button {
+.sidebar_widget.Home_list ul li.active button {
 	background-color: var(--tj-theme-primary);
 	color: var(--tj-white);
 }
-.sidebar_widget.services_list ul li button i {
+.sidebar_widget.Home_list ul li button i {
 	font-size: 25px;
 	line-height: 1;
 	margin-right: 10px;
@@ -3194,8 +3205,8 @@ blockquote cite::before {
 	transition: all 0.4s ease-in-out 0s;
 }
 
-.sidebar_widget.services_list ul li.active button i,
-.sidebar_widget.services_list ul li:hover button i {
+.sidebar_widget.Home_list ul li.active button i,
+.sidebar_widget.Home_list ul li:hover button i {
 	color: var(--tj-white);
 }
 .sidebar_widget.contact_form .form_group {

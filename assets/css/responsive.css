@@ -42,7 +42,7 @@
 
 /* Large Devices */
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-	.services-section {
+	.Home-section {
 		padding-top: 100px;
 		padding-bottom: 100px;
 	}
@@ -188,7 +188,7 @@
 	h6 {
 		font-size: 16px;
 	}
-	.services-section {
+	.Home-section {
 		padding-top: 80px;
 		padding-bottom: 80px;
 	}
@@ -275,21 +275,21 @@
 		font-size: 55px;
 	}
 
-	/* services section */
-	.services-widget .service-item {
+	/* Home section */
+	.Home-widget .service-item {
 		padding: 0px 15px;
 	}
-	.services-widget .service-item .left-box {
+	.Home-widget .service-item .left-box {
 		gap: 10px;
 	}
-	.services-widget .service-item .left-box .service-title {
+	.Home-widget .service-item .left-box .service-title {
 		font-size: 25px;
 	}
-	.services-widget .service-item .right-box {
+	.Home-widget .service-item .right-box {
 		padding: 20px 0;
 		padding-right: 5%;
 	}
-	.services-widget i {
+	.Home-widget i {
 		right: 20px;
 	}
 
@@ -503,7 +503,7 @@
 		font-size: 15px;
 	}
 
-	.services-section {
+	.Home-section {
 		padding-top: 60px;
 		padding-bottom: 60px;
 	}
@@ -607,33 +607,33 @@
 		margin-top: -15px;
 	}
 
-	/* services section */
-	.services-widget .service-item {
+	/* Home section */
+	.Home-widget .service-item {
 		padding: 20px 15px;
 		gap: 15px;
 		transition: all 0.5s ease;
 	}
-	.services-widget .service-item .left-box {
+	.Home-widget .service-item .left-box {
 		width: 100%;
 		gap: 10px;
 		padding: 0 25px 0 0;
 	}
-	.services-widget .service-item .left-box .service-title {
+	.Home-widget .service-item .left-box .service-title {
 		font-size: 20px;
 	}
-	.services-widget .service-item .right-box {
+	.Home-widget .service-item .right-box {
 		width: 100%;
 		padding: 0;
 	}
-	.services-widget i {
+	.Home-widget i {
 		right: 20px;
 		top: 20%;
 		font-size: 15px;
 	}
-	.services-widget .active-bg {
+	.Home-widget .active-bg {
 		display: none;
 	}
-	.services-widget .service-item.current {
+	.Home-widget .service-item.current {
 		background: linear-gradient(
 			260deg,
 			var(--tj-theme-secondary) 0%,

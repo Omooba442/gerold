@@ -107,36 +107,36 @@ body.light-mode {
 *  START: Services Section
 * ===============================
 */
-.light-mode .services-section {
+.light-mode .Home-section {
 	background-color: var(--tj-off-white);
 }
-.light-mode .services-widget .service-item {
+.light-mode .Home-widget .service-item {
 	border-bottom: 1px solid var(--tj-grey-3);
 }
-.light-mode .services-widget .service-item .left-box .service-title {
+.light-mode .Home-widget .service-item .left-box .service-title {
 	transition: all 0.5s ease;
 	color: var(--tj-theme-primary);
 }
-.light-mode .services-widget .service-item.current .left-box .service-title {
+.light-mode .Home-widget .service-item.current .left-box .service-title {
 	color: var(--tj-white);
 }
-.light-mode .services-widget .service-item.current.mleave .left-box .service-title {
+.light-mode .Home-widget .service-item.current.mleave .left-box .service-title {
 	color: var(--tj-theme-primary);
 }
-.light-mode .services-widget .service-item:hover .left-box .service-title {
+.light-mode .Home-widget .service-item:hover .left-box .service-title {
 	color: var(--tj-white);
 }
-.light-mode .services-widget .service-item .right-box p {
+.light-mode .Home-widget .service-item .right-box p {
 	transition: all 0.5s ease;
 	color: var(--tj-theme-secondary);
 }
-.light-mode .services-widget .service-item.current .right-box p  {
+.light-mode .Home-widget .service-item.current .right-box p  {
 	color: var(--tj-white);
 }
-.light-mode .services-widget .service-item.current.mleave .right-box p {
+.light-mode .Home-widget .service-item.current.mleave .right-box p {
 	color: var(--tj-theme-secondary);
 }
-.light-mode .services-widget .service-item:hover .right-box p {
+.light-mode .Home-widget .service-item:hover .right-box p {
 	color: var(--tj-white);
 }
 /* END: Services Section */
