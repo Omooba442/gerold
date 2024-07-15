@@ -352,7 +352,7 @@ Description: Gerold - Personal Portfolio HTML5 Template
 				var odo = $(".odometer");
 				odo.each(function () {
 					var countNumber = $(this).attr("data-count");
-					$(this).html(countNumber);
+					$(this).php(countNumber);
 				});
 			});
 		}

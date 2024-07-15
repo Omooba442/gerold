@@ -1,0 +1,1167 @@
+﻿<!DOCTYPE html>
+<html class="no-js" lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+
+    <!-- Site Title -->
+    <title>AOwebtech</title>
+
+    <!-- Place favicon.ico in the root directory -->
+    <link rel="apple-touch-icon" href="assets/img/favicon.png">
+    <link rel="shortcut icon" type="image/png" href="assets/img/logo.png">
+
+    <!-- CSS here -->
+    <link rel="stylesheet" href="assets/css/animate.min.css">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/font-awesome-pro.min.css">
+    <link rel="stylesheet" href="assets/css/flaticon_gerold.css">
+    <link rel="stylesheet" href="assets/css/nice-select.css">
+    <link rel="stylesheet" href="assets/css/backToTop.css">
+    <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="assets/css/odometer-theme-default.css">
+    <link rel="stylesheet" href="assets/css/magnific-popup.css">
+
+    <link rel="stylesheet" href="assets/css/main.css">
+    <link rel="stylesheet" href="assets/css/light-mode.css">
+    <link rel="stylesheet" href="assets/css/responsive.css">
+</head>
+
+<body>
+
+    <!-- Preloader Area Start -->
+    <div class="preloader">
+        <svg viewbox="0 0 1000 1000" preserveaspectratio="none">
+            <path id="preloaderSvg" d="M0,1005S175,995,500,995s500,5,500,5V0H0Z"></path>
+        </svg>
+        
+
+        
+        <div class="preloader-heading">
+            <div class="load-text">
+                <span>A</span>
+                <span>O</span>
+                <span>W</span>
+                <span>E</span>
+                <span>B</span>
+                <span>T</span>
+                <span>E</span>
+                <span>C</span>
+                <span>H</span>
+            </div>
+        </div>
+    </div>
+    <!-- Preloader Area End -->
+
+
+    <!-- start: Back To Top -->
+    <div class="progress-wrap" id="scrollUp">
+        <svg class="progress-circle svg-content" width="100%" height="100%" viewbox="-1 -1 102 102">
+            <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98"></path>
+        </svg>
+    </div>
+    <!-- end: Back To Top -->
+
+    <!-- HEADER START -->
+    <header class="tj-header-area header-absolute">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 d-flex flex-wrap align-items-center">
+
+                    <div class="logo-box">
+                        <a href="index.php">
+                            <img src="assets/img/logo.png" alt="">
+                        </a>
+                    </div>
+
+                    <div class="header-info-list d-none d-md-inline-block">
+                        <ul class="ul-reset">
+                            <li><a href="mailto:Aowebtech13@gmail.com">adesokanadedeji10@gmail.com</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="header-menu">
+                        <nav>
+                            <ul>
+                                <li><a href="index.php">Home</a></li>
+                                <li><a href="#works-section">Works</a></li>
+                                <li><a href="#resume-section">Resume</a></li>
+                                <li><a href="#skills-section">Skills</a></li>
+                                <li><a href="#testimonials-section">Testimonials</a></li>
+                                <li><a href="#contact-section">Projects</a></li>
+                              
+                            </ul>
+                            
+                        </nav>
+                    </div>
+
+                    <div class="header-button">
+                        <a href="#" class="btn tj-btn-primary">Hire me!</a>
+                    </div>
+
+                    <div class="menu-bar d-lg-none">
+                        <button>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <header class="tj-header-area header-2 header-sticky sticky-out">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 d-flex flex-wrap align-items-center">
+
+                    <div class="logo-box">
+                        <a href="index.php">
+                            <img src="assets/img/logo/logo.png" alt="">
+                        </a>
+                    </div>
+
+                    <div class="header-info-list d-none d-md-inline-block">
+                        <ul class="ul-reset">
+                            <li><a href="mailto:Aowebtech13@gmail.com">adesokanadedeji10@gmail.com</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="header-menu">
+                        <nav>
+                            <ul>
+                                                <li><a href="index.php">Home</a></li>
+                                <li><a href="#works-section">Works</a></li>
+                                <li><a href="#resume-section">Resume</a></li>
+                                <li><a href="#skills-section">Skills</a></li>
+                                <li><a href="#testimonials-section">Testimonials</a></li>
+                                <li><a href="#contact-section">Contact</a></li>
+                            </ul>
+                        </nav>
+                    </div>
+
+                    <div class="header-button">
+                        <a href="https://www.fiverr.com/" class="btn tj-btn-primary">Hire me!</a>
+                    </div>
+
+                    <div class="menu-bar d-lg-none">
+                        <button>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- HEADER END -->
+
+    <main class="site-content" id="content">
+        <!-- HERO SECTION START -->
+        <section class="hero-section d-flex align-items-center" id="intro">
+            <div class="intro_text">
+                <svg viewbox="0 0 1320 300">
+                    <text x="50%" y="50%" text-anchor="middle">
+                        HI
+                    </text>
+                </svg>
+            </div>
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-md-6">
+                        <div class="hero-content-box">
+                            <span class="hero-sub-title">I am Adeyemi Omooba</span>
+                            <h1 class="hero-title">Software  Developer 
+                            </h1>
+
+                            <div class="hero-image-box d-md-none text-center">
+                                <img src="assets/img/IMG_20231127_115948_338@-375390277.jpg" alt="">
+                            </div>
+
+                            <p class="lead">I am a junior developer with proven ability  to adapt in self-starting and collaborative environment while staying focuses on acheieving high quality results under strict deadlines</p>
+                            <div class="button-box d-flex flex-wrap align-items-center">
+                                <a href="#" class="btn tj-btn-secondary">Download
+                                    CV <i class="flaticon-download"></i></a>
+                                <ul class="ul-reset social-icons">
+                                    <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fa-light fa-basketball"></i></a></li>
+                                    <li><a href="#"><i class="fa-brands fa-linkedin-in"></i></a></li>
+                                    <li><a href="https://github.com/Omooba442"><i class="fa-brands fa-github"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 d-none d-md-block">
+                        <div class="hero-image-box text-center">
+                            <img src="assets/img/IMG-20240507-WA0003.jpg" alt="">
+                        </div>
+                    </div>
+                </div>
+
+                <div class="funfact-area">
+                    <div class="row">
+                        <div class="col-6 col-lg-3">
+                            <div class="funfact-item d-flex flex-column flex-sm-row flex-wrap align-items-center">
+                                <div class="number"><span class="odometer" data-count="4">0</span></div>
+                                <div class="text">Years of <br>Experience</div>
+                            </div>
+                        </div>
+                        <div class="col-6 col-lg-3">
+                            <div class="funfact-item d-flex flex-column flex-sm-row flex-wrap align-items-center">
+                                <div class="number"><span class="odometer" data-count="89">0</span>+</div>
+                                <div class="text">Project <br>Completed</div>
+                            </div>
+                        </div>
+                        <div class="col-6 col-lg-3">
+                            <div class="funfact-item d-flex flex-column flex-sm-row flex-wrap align-items-center">
+                                <div class="number"><span class="odometer" data-count="107">0</span></div>
+                                <div class="text">Happy <br>Clients</div>
+                            </div>
+                        </div>
+                        <div class="col-6 col-lg-3">
+                            <div class="funfact-item d-flex flex-column flex-sm-row flex-wrap align-items-center">
+                                <div class="number"><span class="odometer" data-count="6">0</span> +</div>
+                                <div class="text">proramming  <br>Languages</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- HERO SECTION END -->
+
+        <!-- SERVICES SECTION START -->
+        <section class="Home-section" id="Home-section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="section-header text-center">
+                            <h2 class="section-title wow fadeInUp" data-wow-delay=".3s">My Quality Services</h2>
+                            <p class=" wow fadeInUp" data-wow-delay=".4s">.<p>I am eager to bring my strong problemt-solving skills and commitment to sustmer service excellence  to a forward thimking development team </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="Home-widget position-relative">
+                            <div class="service-item current d-flex flex-wrap align-items-center wow fadeInUp" data-wow-delay=".5s">
+                                <div class="left-box d-flex flex-wrap align-items-center">
+                                    <span class="number">01</span>
+                                    <h3 class="service-title">Front-End designing</h3>
+                                </div>
+                                <div class="right-box">
+                                    <p>Front-end web development is the development of the graphical user interface of a website through the use of HTML, CSS, and JavaScript so users can view and interact with that website.</p>
+                                </div>
+                                <i class="flaticon-up-right-arrow"></i>
+                                <button data-mfp-src="#service-wrapper" class="service-link modal-popup"></button>
+                            </div>
+                            <div class="service-item d-flex flex-wrap align-items-center wow fadeInUp" data-wow-delay=".6s">
+                                <div class="left-box d-flex flex-wrap align-items-center">
+                                    <span class="number">02</span>
+                                    <h3 class="service-title">Backend Development</h3>
+                                </div>
+                                <div class="right-box">
+                                    <p>This means working on server-side softwares whith JavaScript, Python, and php. A.O webtech ensures the softwares performs correctly, focusing on databases, back-end logic, application programming interface (APIs), architecture, and servers.</p>
+                                </div>
+                                <i class="flaticon-up-right-arrow"></i>
+                                <button data-mfp-src="#service-wrapper" class="service-link modal-popup"></button>
+                            </div>
+                            <div class="service-item d-flex flex-wrap align-items-center wow fadeInUp" data-wow-delay=".7s">
+                                <div class="left-box d-flex flex-wrap align-items-center">
+                                    <span class="number">03</span>
+                                    <h3 class="service-title">Software Testing</h3>
+                                </div>
+                                <div class="right-box">
+                                    <p> A.O Webtech has a Q.A  team that performs quality and penetration testing  and helps to test the quality of the  software system impartially. It consists of both functional and non-functional testing. Software Testing is a black-box testing.</p>
+                                </div>
+                                <i class="flaticon-up-right-arrow"></i>
+                                <button data-mfp-src="#service-wrapper" class="service-link modal-popup"></button>
+                            </div>
+                            <div class="service-item d-flex flex-wrap align-items-center wow fadeInUp" data-wow-delay=".8s">
+                                <div class="left-box d-flex flex-wrap align-items-center">
+                                    <span class="number">04</span>
+                                    <h3 class="service-title">Debugging and Auditing</h3>
+                                </div>
+                                <div class="right-box">
+                                    <p>Debugging is the process of finding and fixing errors or bugs in the source code of any software.</p>
+                                </div>
+                                <i class="flaticon-up-right-arrow"></i>
+                                <button data-mfp-src="#service-wrapper" class="service-link modal-popup"></button>
+                            </div>
+                            <div class="active-bg wow fadeInUp" data-wow-delay=".5s"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- SERVICES SECTION END -->
+
+        <!-- start: Service Popup -->
+        <div id="service-wrapper" class="popup_content_area zoom-anim-dialog mfp-hide">
+            <div class="popup_modal_img">
+                <img src="assets/img/Home/modal-img.jpg" alt="">
+            </div>
+
+            <div class="popup_modal_content">
+                <div class="service_details">
+                    <div class="row">
+                        <div class="col-lg-7 col-xl-8">
+                            <div class="service_details_content">
+                                <div class="service_info">
+                                    <h6 class="subtitle">SERVICES</h6>
+                                    <h2 class="title">UI/UX Design</h2>
+                                    <div class="desc">
+                                        <p>Elizabeth some dodgy chavs are you taking the piss faff about pardon amongst
+                                            car
+                                            boot a load of old tosh is cracking goal blow off telling brown.</p>
+
+                                        <p>Brolly show off show off pick your nose and blow off well A bit of how’s your
+                                            father tomfoolery blimey, me old mucker starkers Queen’s English dropped a
+                                            clanger bite your arm spiffing good time burke Why chancer. Hotpot bum bag
+                                            cracking goal young delinquent naff bugger cup of chars bender loo it’s all
+                                            gone
+                                            to pot the nancy cheeky.</p>
+
+                                        <p>At public school cras bog some dodgy chav Richard Why argy bargy vagabon
+                                            William
+                                            bender matie boy, off his nut chancer Jeffrey up the kyver say mufty you mug
+                                            ummm telling pear shaped Oxford owt to do with me do one so said are you
+                                            taking
+                                            his.</p>
+                                    </div>
+
+                                    <h3 class="title">Services Process</h3>
+                                    <div class="desc">
+                                        <p>Elizabeth some dodgy chavs are you taking the piss faff about pardon amongst
+                                            car
+                                            boot a load of old tosh is cracking goal blow off telling brown.</p>
+                                    </div>
+                                    <ul>
+                                        <li>Reinvent Your Business to Better</li>
+                                        <li>Pioneering the Internet's First</li>
+                                        <li>Pioneering the Design World's First</li>
+                                        <li>Pioneering the Design World's First</li>
+                                        <li>Pioneering the Design World's First</li>
+                                        <li>Pioneering the Design World's First</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-5 col-xl-4">
+                            <div class="tj_main_sidebar">
+                                <div class="sidebar_widget Home_list">
+                                    <div class="widget_title">
+                                        <h3 class="title">All Services</h3>
+                                    </div>
+                                    <ul>
+                                        <li class="active">
+                                            <button>
+                                                <i class="flaticon-design"></i>
+                                                Branding Design
+                                            </button>
+                                        </li>
+                                        <li>
+                                            <button>
+                                                <i class="flaticon-3d-movie"></i>
+                                                3D Animation
+                                            </button>
+                                        </li>
+                                        <li>
+                                            <button>
+                                                <i class="flaticon-ux-design"></i>
+                                                UI/UX Design
+                                            </button>
+                                        </li>
+                                        <li>
+                                            <button>
+                                                <i class="flaticon-web-design"></i>
+                                                Web Design
+                                            </button>
+                                        </li>
+                                        <li>
+                                            <button>
+                                                <i class="flaticon-ui-design"></i>
+                                                App Design
+                                            </button>
+                                        </li>
+                                    </ul>
+                                </div>
+
+                                <div class="sidebar_widget contact_form">
+                                    <div class="widget_title">
+                                        <h3 class="title">Get in Touch</h3>
+                                    </div>
+
+                                    <form action="index.php">
+                                        <div class="form_group">
+                                            <input type="text" name="name" id="name" placeholder="Name" autocomplete="off">
+                                        </div>
+                                        <div class="form_group">
+                                            <input type="email" name="semail" id="semail" placeholder="Email" autocomplete="off">
+                                        </div>
+                                        <div class="form_group">
+                                            <textarea name="smessage" id="smessage" placeholder="Your message" autocomplete="off"></textarea>
+                                        </div>
+                                        <div class="form_btn">
+                                            <button class="btn tj-btn-primary" type="submit">Send Message</button>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- end: Service Popup -->
+
+        <!-- PORTFOLIO SECTION START -->
+        <section class="portfolio-section" id="works-section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="section-header text-center">
+                            <h2 class="section-title wow fadeInUp" data-wow-delay=".3s">My Recent Works</h2>
+                            <p class=" wow fadeInUp" data-wow-delay=".4s">With over 4 years experiece working as a software developer , i specialize in the usage of php , javascript having a proven track record inn developing high-performance , scalable web Home . </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="portfolio-filter text-center wow fadeInUp" data-wow-delay=".5s">
+                            <div class="button-group filter-button-group">
+                                <button data-filter="*" class="active">All</button>
+                                <button data-filter=".uxui">UX/UI</button>
+                                <button data-filter=".branding">Branding</button>
+                                <button data-filter=".mobile-app">Apps</button>
+                                <div class="active-bg"></div>
+                            </div>
+                        </div>
+
+                        <div class="portfolio-box wow fadeInUp" data-wow-delay=".6s">
+                            <div class="portfolio-sizer"></div>
+                            <div class="gutter-sizer"></div>
+                            <div class="portfolio-item branding">
+                                <div class="image-box">
+                                    <img src="assets/img/portfolio/build a complete forex, crypto, bitcoin investment website.png" alt="">
+                                </div>
+                                <div class="content-box">
+                                    
+                                    <a href=""><h3>Brillfund</h3></a>
+                                   
+                                    <a href="brillfund.php"><p>No 1 Innovation Platform that rewards users for their participaton</p></a>
+                                   
+                                </div>
+                            </div>
+                            <div class="portfolio-item uxui">
+                                <div class="image-box">
+                                    <img src="assets/img/portfolio/nft minting website, dapp, landing page, smart contract, opensea.png" alt="">
+                                </div>
+                                <div class="content-box">
+                                    
+                                    <a href=""><h3>Washapes Nft</h3></a>
+                                   
+                                    <a href="washapes.php"><p>this is an nft website developed in the year 2022 by a fiver client , he didnt renew his domain , so his website isnt live again </p></a>
+                                   
+                                </div>
+                            </div>
+                            <div class="portfolio-item mobile-app">
+                                <div class="image-box">
+                                    <img src="assets/img/portfolio/acemary.png" alt="">
+                                </div>
+                                <div class="content-box">
+                                    
+                                    <a href=""><h3>Acemary</h3></a>
+                                   
+                                    <a href="acemary.php"><p>Acemary website is a personal freelance website portfoilo  whose passion is to help businesses and individuals suceed online with a background in clickfunnels and kajabi</p></a>
+                                   
+                                </div>
+                            </div>
+                            <div class="portfolio-item branding">
+                                <div class="image-box">
+                                    <img src="assets/img/portfolio/cyberpast.png" alt="">
+                                    
+                                </div>
+                                <div class="content-box">
+                                    
+                                    <a href=""><h3>Cyberpast Nft</h3></a>
+                                   
+                                    <a href="cyberpastnft.php"><p>Cyberpast Nft website is full option software developed for the cyberpast team, built with express js , php and tailwind css </p></a>
+                                   
+                                </div>
+                            </div>
+                            <div class="portfolio-item mobile-app">
+                                <div class="image-box">
+                                    <img src="assets/img/portfolio/cyberpast.png" alt="">
+                                </div>
+                                <div class="content-box">
+                                    
+                                    <a href=""><h3>Brillfund</h3></a>
+                                   
+                                    <a href="brillfund.php"><p>No 1 Innovation Platform that rewards users for their participaton</p></a>
+                                   
+                                </div>
+                            </div>
+                            <div class="portfolio-item mobile-app">
+                                <div class="image-box">
+                                    <img src="assets/img/portfolio/aowebtech caregiver.png" alt="">
+                                </div>
+                                <div class="content-box">
+                                    
+                                    <a href="aederlyservices.php"><h3>Aederly Services</h3></a>
+                                   
+                                    <a href="aederlyservices.php"><p>A&A Elderly Care Services is a registered care agency in Ibadan, Nigeria with service users across south west Nigeria. We provide professional and luxury care for elderly people irrespective of race, religion or culture</p></a>
+                                   
+                                </div>
+                            </div>
+                            <div class="portfolio-item mobile-app">
+                                <div class="image-box">
+                                    <img src="assets/img/portfolio/aowebtech blessing.png" alt="">
+                                </div>
+                                <div class="content-box">
+                                    
+                                    <a href=""><h3>Blessing James</h3></a>
+                                   
+                                    <a href="blessingjames.php"><p>As a result-driven senior content writer with over 5 years of experience,he excels in crafting compelling written content tailored for specific audiences. His proven track record demonstrates my ability to create and implement effective content strategies that drive pipeline growth and revenue.
+                                    </p></a>
+                                   
+                                </div>
+                            </div>
+                            <div class="portfolio-item mobile-app">
+                                <div class="image-box">
+                                    <img src="assets/img/portfolio/hotel booking vacation rental travel tours websiteS.png" alt="">
+                                </div>
+                                <div class="content-box">
+                                    
+                                    <a href=""><h3>Brillfund</h3></a>
+                                   
+                                    <a href="brillfund.php"><p>No 1 Innovation Platform that rewards users for their participaton</p></a>
+                                   
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- PORTFOLIO SECTION END -->
+
+        <!-- start: Portfolio Popup -->
+        <div id="portfolio-wrapper" class="popup_content_area zoom-anim-dialog mfp-hide">
+            <div class="popup_modal_img">
+                <img src="assets/img/portfolio/modal-img.jpg" alt="">
+            </div>
+
+            
+        </div>
+        <!-- end: Portfolio Popup -->
+
+        <!-- RESUME SECTION START -->
+        <section class="resume-section" id="res323asume-section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="section-header wow fadeInUp" data-wow-delay=".3s">
+                            <h2 class="section-title"><i class="flaticon-recommendation"></i> My Experience</h2>
+                        </div>
+
+                        <div class="resume-widget">
+                            <div class="resume-item wow fadeInLeft" data-wow-delay=".4s">
+                                <div class="time">
+                                    2019 - 2021
+                                </div>
+                                <h3 class="resume-title">Frontend Development/h3>
+                                <div class="institute">
+                                    Akure , Ondo State
+                                </div>
+                            </div>
+                            <div class="resume-item wow fadeInLeft" data-wow-delay=".5s">
+                                <div class="time">
+                                    2021 - 2022
+                                </div>
+                                <h3 class="resume-title">Backened Web Developer</h3>
+                                <div class="institute">
+                                   Lagos State Nigeria
+                                </div>
+                            </div>
+                            <div class="resume-item wow fadeInLeft" data-wow-delay=".6s">
+                                <div class="time">
+                                    2022 - 2022
+                                </div>
+                                <h3 class="resume-title"> Full Stack Devleoper</h3>
+                                <div class="institute">
+                                    House of Life, Leeds
+                                </div>
+                            </div>
+                            <div class="resume-item wow fadeInLeft" data-wow-delay=".7s">
+                                <div class="time">
+                                    2023 - 2024
+                                </div>
+                                <h3 class="resume-title">Web3 Developer</h3>
+                                <div class="institute">
+                                    Theme Junction, Bursa
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="section-header wow fadeInUp" data-wow-delay=".4s">
+                            <h2 class="section-title"><i class="flaticon-graduation-cap"></i> My Education</h2>
+                        </div>
+
+                        <div class="resume-widget">
+                            <div class="resume-item wow fadeInRight" data-wow-delay=".5s">
+                                <div class="time">
+                                    2017 - 2023
+                                </div>
+                                <h3 class="resume-title">Civil And Environmental Engineering </h3>
+                                <div class="institute">
+                                    Federal Univeristy Of Technology , Akure
+                                </div>
+                            </div>
+                            <div class="resume-item wow fadeInRight" data-wow-delay=".6s">
+                                <div class="time">
+                                    March,2024 -November, 2024.
+                                </div>
+                                <h3 class="resume-title">Full Stack Development</h3>
+                                <div class="institute">
+                                    Wetin Dey Tech Institute
+                                </div>
+                            </div>
+                            <div class="resume-item wow fadeInRight" data-wow-delay=".7s">
+                                <div class="time">
+                                    2012 - 2015
+                                </div>
+                                <h3 class="resume-title">Web3 design course</h3>
+                                <div class="institute">
+                                    University of California
+                                </div>
+                            </div>
+                            <div class="resume-item wow fadeInRight" data-wow-delay=".8s">
+                                <div class="time">
+                                    2023 - date
+                                </div>
+                                <h3 class="resume-title">Fullstack Develpment Training </h3>
+                                <div class="institute">
+                                    Wetindey Code Academy
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- RESUME SECTION END -->
+
+        <!-- SKILLS SECTION START -->
+        <section class="skills-section" id="skills-section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="section-header text-center">
+                            <h2 class="section-title wow fadeInUp" data-wow-delay=".3s">My Skills</h2>
+                            <p class=" wow fadeInUp" data-wow-delay=".4s">We put your ideas and thus your wishes in the
+                                form of a unique web project that inspires
+                                you
+                                and you customers.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="skills-widget d-flex flex-wrap justify-content-center align-items-center">
+                            <div class="skill-item wow fadeInUp" data-wow-delay=".3s">
+                                <div class="skill-inner">
+                                    <div class="icon-box">
+                                        <img src="assets/img/icons/figma.svg" alt="">
+                                    </div>
+                                    <div class="number">92%</div>
+                                </div>
+                                <p>Figma</p>
+                            </div>
+                            <div class="skill-item wow fadeInUp" data-wow-delay=".4s">
+                                <div class="skill-inner">
+                                    <div class="icon-box">
+                                        <img src="assets/img/icons/sketch.svg" alt="">
+                                    </div>
+                                    <div class="number">80%</div>
+                                </div>
+                                <p>Sketch</p>
+                            </div>
+                            <div class="skill-item wow fadeInUp" data-wow-delay=".5s">
+                                <div class="skill-inner">
+                                    <div class="icon-box">
+                                        <img src="assets/img/icons/xd.svg" alt="">
+                                    </div>
+                                    <div class="number">85%</div>
+                                </div>
+                                <p>XD</p>
+                            </div>
+                            <div class="skill-item wow fadeInUp" data-wow-delay=".6s">
+                                <div class="skill-inner">
+                                    <div class="icon-box">
+                                        <img src="assets/img/icons/wp.svg" alt="">
+                                    </div>
+                                    <div class="number">99%</div>
+                                </div>
+                                <p>WordPess</p>
+                            </div>
+                            <div class="skill-item wow fadeInUp" data-wow-delay=".7s">
+                                <div class="skill-inner">
+                                    <div class="icon-box">
+                                        <img src="assets/img/icons/react.svg" alt="">
+                                    </div>
+                                    <div class="number">89%</div>
+                                </div>
+                                <p>React</p>
+                            </div>
+                            <div class="skill-item wow fadeInUp" data-wow-delay=".8s">
+                                <div class="skill-inner">
+                                    <div class="icon-box">
+                                        <img src="assets/img/icons/js.svg" alt="">
+                                    </div>
+                                    <div class="number">93%</div>
+                                </div>
+                                <p>JavaScript</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- SKILLS SECTION END -->
+
+        <!-- TESTIMONIAL SECTION START -->
+        <section class="testimonial-section" id="testimonials-section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-5">
+                        <div class="section-header">
+                            <h2 class="section-title wow fadeInLeft" data-wow-delay=".3s">My Client's Stories</h2>
+                            <p class=" wow fadeInLeft" data-wow-delay=".4s">Empowering people in new a digital journey
+                                with my super Home</p>
+                                <p class=" wow fadeInLeft" data-wow-delay=".4s">Empowering people in new a digital journey
+                                    with my super Home</p>
+                                    <p class=" wow fadeInLeft" data-wow-delay=".4s">Empowering people in new a digital journey
+                                        with my super Home</p>
+                                        <p class=" wow fadeInLeft" data-wow-delay=".4s">Empowering people in new a digital journey
+                                            with my super Home</p>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-7 col-xl-6 offset-xl-1">
+                        <div class="testimonials-widget wow fadeInRight" data-wow-delay=".5s">
+                            <div class="owl-carousel testimonial-carousel">
+                                <div class="testimonial-item">
+                                    <div class="top-area d-flex flex-wrap justify-content-between">
+                                        <div class="logo-box">
+                                            <img src="assets/img/testimonials/logo/1.png" alt="">
+                                        </div>
+                                        <div class="image-box">
+                                            <img src="assets/img/testimonials/user/1.jpg" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="icon-box">
+                                        <svg width="22" height="22" viewbox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M0.105431 2.18998C0.0301532 0.988687 1.02531 -0.00647222 2.2266 0.0688056L19.4961 1.15097C21.2148 1.25867 22.0029 3.34358 20.7852 4.56127L4.5979 20.7486C3.3802 21.9663 1.2953 21.1781 1.1876 19.4594L0.105431 2.18998Z" fill="url(#paint0_linear_263_588)"></path>
+                                            <defs>
+                                                <lineargradient id="paint0_linear_263_588" x1="-0.0363755" y1="-0.0729998" x2="35.3333" y2="-0.0729991" gradientunits="userSpaceOnUse">
+                                                    <stop offset="1" stop-color="var(--tj-theme-primary)"></stop>
+                                                    <stop offset="1" stop-color="#140C1C" stop-opacity="0"></stop>
+                                                </lineargradient>
+                                            </defs>
+                                        </svg>
+                                        <svg width="22" height="22" viewbox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M0.105431 2.18998C0.0301532 0.988687 1.02531 -0.00647222 2.2266 0.0688056L19.4961 1.15097C21.2148 1.25867 22.0029 3.34358 20.7852 4.56127L4.5979 20.7486C3.3802 21.9663 1.2953 21.1781 1.1876 19.4594L0.105431 2.18998Z" fill="url(#paint0_linear_263_589)"></path>
+                                            <defs>
+                                                <lineargradient id="paint0_linear_263_589" x1="-0.0363755" y1="-0.0729998" x2="35.3333" y2="-0.0729991" gradientunits="userSpaceOnUse">
+                                                    <stop offset="1" stop-color="var(--tj-theme-primary)"></stop>
+                                                    <stop offset="1" stop-color="#140C1C" stop-opacity="0"></stop>
+                                                </lineargradient>
+                                            </defs>
+                                        </svg>
+                                    </div>
+                                    <p class="quote">“ His strategic approach, combined with  technical expertise, enables him to deliver measurable results for the growth of my business & brand. </p>
+                                    <h4 class="name"> Mr Mikhelli</h4>
+                                    <span class="designation"> Ceo ,Cyberpast Nft</span>
+                                </div>
+                                <div class="testimonial-item">
+                                    <div class="top-area d-flex flex-wrap justify-content-between">
+                                        <div class="logo-box">
+                                            <img src="assets/img/testimonials/logo/2.png" alt="">
+                                        </div>
+                                        <div class="image-box">
+                                            <img src="assets/img/testimonials/user/2.jpg" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="icon-box">
+                                        <svg width="22" height="22" viewbox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M0.105431 2.18998C0.0301532 0.988687 1.02531 -0.00647222 2.2266 0.0688056L19.4961 1.15097C21.2148 1.25867 22.0029 3.34358 20.7852 4.56127L4.5979 20.7486C3.3802 21.9663 1.2953 21.1781 1.1876 19.4594L0.105431 2.18998Z" fill="url(#paint0_linear_263_511)"></path>
+                                            <defs>
+                                                <lineargradient id="paint0_linear_263_511" x1="-0.0363755" y1="-0.0729998" x2="35.3333" y2="-0.0729991" gradientunits="userSpaceOnUse">
+                                                    <stop offset="1" stop-color="var(--tj-theme-primary)"></stop>
+                                                    <stop offset="1" stop-color="#140C1C" stop-opacity="0"></stop>
+                                                </lineargradient>
+                                            </defs>
+                                        </svg>
+                                        <svg width="22" height="22" viewbox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M0.105431 2.18998C0.0301532 0.988687 1.02531 -0.00647222 2.2266 0.0688056L19.4961 1.15097C21.2148 1.25867 22.0029 3.34358 20.7852 4.56127L4.5979 20.7486C3.3802 21.9663 1.2953 21.1781 1.1876 19.4594L0.105431 2.18998Z" fill="url(#paint0_linear_263_510)"></path>
+                                            <defs>
+                                                <lineargradient id="paint0_linear_263_510" x1="-0.0363755" y1="-0.0729998" x2="35.3333" y2="-0.0729991" gradientunits="userSpaceOnUse">
+                                                    <stop offset="1" stop-color="var(--tj-theme-primary)"></stop>
+                                                    <stop offset="1" stop-color="#140C1C" stop-opacity="0"></stop>
+                                                </lineargradient>
+                                            </defs>
+                                        </svg>
+                                    </div>
+                                    <p class="quote">He is a prolific software engineer that wields the power of language to craft compelling prompts that unleash the full potential of artificial intelligence systems.</p>
+                                    <h4 class="name">Blessing James</h4>
+                                    <span class="designation"> Ceo,Grinward Enterprise</span>
+                                </div>
+                                <div class="testimonial-item">
+                                    <div class="top-area d-flex flex-wrap justify-content-between">
+                                        <div class="logo-box">
+                                            <img src="assets/img/testimonials/logo/1.png" alt="">
+                                        </div>
+                                        <div class="image-box">
+                                            <img src="assets/img/testimonials/user/1.jpg" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="icon-box">
+                                        <svg width="22" height="22" viewbox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M0.105431 2.18998C0.0301532 0.988687 1.02531 -0.00647222 2.2266 0.0688056L19.4961 1.15097C21.2148 1.25867 22.0029 3.34358 20.7852 4.56127L4.5979 20.7486C3.3802 21.9663 1.2953 21.1781 1.1876 19.4594L0.105431 2.18998Z" fill="url(#paint0_linear_263_512)"></path>
+                                            <defs>
+                                                <lineargradient id="paint0_linear_263_512" x1="-0.0363755" y1="-0.0729998" x2="35.3333" y2="-0.0729991" gradientunits="userSpaceOnUse">
+                                                    <stop offset="1" stop-color="var(--tj-theme-primary)"></stop>
+                                                    <stop offset="1" stop-color="#140C1C" stop-opacity="0"></stop>
+                                                </lineargradient>
+                                            </defs>
+                                        </svg>
+                                        <svg width="22" height="22" viewbox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M0.105431 2.18998C0.0301532 0.988687 1.02531 -0.00647222 2.2266 0.0688056L19.4961 1.15097C21.2148 1.25867 22.0029 3.34358 20.7852 4.56127L4.5979 20.7486C3.3802 21.9663 1.2953 21.1781 1.1876 19.4594L0.105431 2.18998Z" fill="url(#paint0_linear_263_513)"></path>
+                                            <defs>
+                                                <lineargradient id="paint0_linear_263_513" x1="-0.0363755" y1="-0.0729998" x2="35.3333" y2="-0.0729991" gradientunits="userSpaceOnUse">
+                                                    <stop offset="1" stop-color="var(--tj-theme-primary)"></stop>
+                                                    <stop offset="1" stop-color="#140C1C" stop-opacity="0"></stop>
+                                                </lineargradient>
+                                            </defs>
+                                        </svg>
+                                    </div>
+                                    <p class="quote">“Taylor is a professional Designer he really helps my business by
+                                        providing value to my business. </p>
+                                    <h4 class="name">Brandon Fraser</h4>
+                                    <span class="designation">Senior Software Dev, Cosmic Sport</span>
+                                </div>
+                                <div class="testimonial-item">
+                                    <div class="top-area d-flex flex-wrap justify-content-between">
+                                        <div class="logo-box">
+                                            <img src="assets/img/testimonials/logo/2.png" alt="">
+                                        </div>
+                                        <div class="image-box">
+                                            <img src="assets/img/testimonials/user/2.jpg" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="icon-box">
+                                        <svg width="22" height="22" viewbox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M0.105431 2.18998C0.0301532 0.988687 1.02531 -0.00647222 2.2266 0.0688056L19.4961 1.15097C21.2148 1.25867 22.0029 3.34358 20.7852 4.56127L4.5979 20.7486C3.3802 21.9663 1.2953 21.1781 1.1876 19.4594L0.105431 2.18998Z" fill="url(#paint0_linear_263_514)"></path>
+                                            <defs>
+                                                <lineargradient id="paint0_linear_263_514" x1="-0.0363755" y1="-0.0729998" x2="35.3333" y2="-0.0729991" gradientunits="userSpaceOnUse">
+                                                    <stop offset="1" stop-color="var(--tj-theme-primary)"></stop>
+                                                    <stop offset="1" stop-color="#140C1C" stop-opacity="0"></stop>
+                                                </lineargradient>
+                                            </defs>
+                                        </svg>
+                                        <svg width="22" height="22" viewbox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M0.105431 2.18998C0.0301532 0.988687 1.02531 -0.00647222 2.2266 0.0688056L19.4961 1.15097C21.2148 1.25867 22.0029 3.34358 20.7852 4.56127L4.5979 20.7486C3.3802 21.9663 1.2953 21.1781 1.1876 19.4594L0.105431 2.18998Z" fill="url(#paint0_linear_263_515)"></path>
+                                            <defs>
+                                                <lineargradient id="paint0_linear_263_515" x1="-0.0363755" y1="-0.0729998" x2="35.3333" y2="-0.0729991" gradientunits="userSpaceOnUse">
+                                                    <stop offset="1" stop-color="var(--tj-theme-primary)"></stop>
+                                                    <stop offset="1" stop-color="#140C1C" stop-opacity="0"></stop>
+                                                </lineargradient>
+                                            </defs>
+                                        </svg>
+                                    </div>
+                                    <p class="quote">“Taylor is a professional Designer he really helps my business by
+                                        providing value to my business. </p>
+                                    <h4 class="name">Tim Bailey</h4>
+                                    <span class="designation">SEO Specialist, Theme Junction</span>
+                                </div>
+                                <div class="testimonial-item">
+                                    <div class="top-area d-flex flex-wrap justify-content-between">
+                                        <div class="logo-box">
+                                            <img src="assets/img/testimonials/logo/1.png" alt="">
+                                        </div>
+                                        <div class="image-box">
+                                            <img src="assets/img/testimonials/user/1.jpg" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="icon-box">
+                                        <svg width="22" height="22" viewbox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M0.105431 2.18998C0.0301532 0.988687 1.02531 -0.00647222 2.2266 0.0688056L19.4961 1.15097C21.2148 1.25867 22.0029 3.34358 20.7852 4.56127L4.5979 20.7486C3.3802 21.9663 1.2953 21.1781 1.1876 19.4594L0.105431 2.18998Z" fill="url(#paint0_linear_263_512)"></path>
+                                            <defs>
+                                                <lineargradient id="paint0_linear_263_512" x1="-0.0363755" y1="-0.0729998" x2="35.3333" y2="-0.0729991" gradientunits="userSpaceOnUse">
+                                                    <stop offset="1" stop-color="var(--tj-theme-primary)"></stop>
+                                                    <stop offset="1" stop-color="#140C1C" stop-opacity="0"></stop>
+                                                </lineargradient>
+                                            </defs>
+                                        </svg>
+                                        <svg width="22" height="22" viewbox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M0.105431 2.18998C0.0301532 0.988687 1.02531 -0.00647222 2.2266 0.0688056L19.4961 1.15097C21.2148 1.25867 22.0029 3.34358 20.7852 4.56127L4.5979 20.7486C3.3802 21.9663 1.2953 21.1781 1.1876 19.4594L0.105431 2.18998Z" fill="url(#paint0_linear_263_513)"></path>
+                                            <defs>
+                                                <lineargradient id="paint0_linear_263_513" x1="-0.0363755" y1="-0.0729998" x2="35.3333" y2="-0.0729991" gradientunits="userSpaceOnUse">
+                                                    <stop offset="1" stop-color="var(--tj-theme-primary)"></stop>
+                                                    <stop offset="1" stop-color="#140C1C" stop-opacity="0"></stop>
+                                                </lineargradient>
+                                            </defs>
+                                        </svg>
+                                    </div>
+                                    <p class="quote">“Taylor is a professional Designer he really helps my business by
+                                        providing value to my business. </p>
+                                    <h4 class="name">Brandon Fraser</h4>
+                                    <span class="designation">Senior Software Dev, Cosmic Sport</span>
+                                </div>
+                                <div class="testimonial-item">
+                                    <div class="top-area d-flex flex-wrap justify-content-between">
+                                        <div class="logo-box">
+                                            <img src="assets/img/testimonials/logo/2.png" alt="">
+                                        </div>
+                                        <div class="image-box">
+                                            <img src="assets/img/testimonials/user/2.jpg" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="icon-box">
+                                        <svg width="22" height="22" viewbox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M0.105431 2.18998C0.0301532 0.988687 1.02531 -0.00647222 2.2266 0.0688056L19.4961 1.15097C21.2148 1.25867 22.0029 3.34358 20.7852 4.56127L4.5979 20.7486C3.3802 21.9663 1.2953 21.1781 1.1876 19.4594L0.105431 2.18998Z" fill="url(#paint0_linear_263_514)"></path>
+                                            <defs>
+                                                <lineargradient id="paint0_linear_263_514" x1="-0.0363755" y1="-0.0729998" x2="35.3333" y2="-0.0729991" gradientunits="userSpaceOnUse">
+                                                    <stop offset="1" stop-color="var(--tj-theme-primary)"></stop>
+                                                    <stop offset="1" stop-color="#140C1C" stop-opacity="0"></stop>
+                                                </lineargradient>
+                                            </defs>
+                                        </svg>
+                                        <svg width="22" height="22" viewbox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M0.105431 2.18998C0.0301532 0.988687 1.02531 -0.00647222 2.2266 0.0688056L19.4961 1.15097C21.2148 1.25867 22.0029 3.34358 20.7852 4.56127L4.5979 20.7486C3.3802 21.9663 1.2953 21.1781 1.1876 19.4594L0.105431 2.18998Z" fill="url(#paint0_linear_263_515)"></path>
+                                            <defs>
+                                                <lineargradient id="paint0_linear_263_515" x1="-0.0363755" y1="-0.0729998" x2="35.3333" y2="-0.0729991" gradientunits="userSpaceOnUse">
+                                                    <stop offset="1" stop-color="var(--tj-theme-primary)"></stop>
+                                                    <stop offset="1" stop-color="#140C1C" stop-opacity="0"></stop>
+                                                </lineargradient>
+                                            </defs>
+                                        </svg>
+                                    </div>
+                                    <p class="quote">“Taylor is a professional Designer he really helps my business by
+                                        providing value to my business. </p>
+                                    <h4 class="name">Tim Bailey</h4>
+                                    <span class="designation">SEO Specialist, Theme Junction</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- TESTIMONIAL SECTION END -->
+
+    
+
+        <!-- CONTACT SECTION START -->
+        <section class="contact-section" id="contact-section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 col-md-7 order-2 order-md-1">
+                        <div class="contact-form-box wow fadeInLeft" data-wow-delay=".3s">
+                            <div class="section-header">
+                                <h2 class="section-title">Let’s work together!</h2>
+                                <p>I design and code beautifully simple things and i love what i do. Just simple like
+                                    that!
+                                </p>
+                            </div>
+
+                            <div class="tj-contact-form">
+                                <form id="contact-form">
+                                    <div class="row gx-3">
+                                        <div class="col-sm-6">
+                                            <div class="form_group">
+                                                <input type="text" name="conName" id="conName" placeholder="First name" autocomplete="off">
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-6">
+                                            <div class="form_group">
+                                                <input type="text" name="conLName" id="conLName" placeholder="Last name" autocomplete="off">
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-6">
+                                            <div class="form_group">
+                                                <input type="email" name="conEmail" id="conEmail" placeholder="Email address" autocomplete="off">
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-6">
+                                            <div class="form_group">
+                                                <input type="tel" name="conPhone" id="conPhone" placeholder="Phone number" autocomplete="off">
+                                            </div>
+                                        </div>
+                                        <div class="col-12">
+                                            <div class="form_group">
+                                                <select name="conService" id="conService" class="tj-nice-select">
+                                                    <option value="" selected="" disabled="">Choose Service</option>
+                                                    <option value="wordpres">Wordpress Bugs</option>
+                                                    <option value="web">Web development</option>
+                                                    <option value="debug">Debugging</option>
+                                                    <option value="softwareDeb">Software Testing</option>
+                                                </select>
+                                            </div>
+                                        </div>
+                                        <div class="col-12">
+                                            <div class="form_group">
+                                                <textarea name="conMessage" id="conMessage" placeholder="Message"></textarea>
+                                            </div>
+                                        </div>
+                                        <div class="col-12">
+                                            <div class="form_btn">
+                                                <button type="submit" class="btn tj-btn-primary">Contact AOwebtech</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-5 offset-lg-1 col-md-5  d-flex flex-wrap align-items-center  order-1 order-md-2">
+                        <div class="contact-info-list">
+                            <ul class="ul-reset">
+                                <li class="d-flex flex-wrap align-items-center position-relative wow fadeInRight" data-wow-delay=".4s">
+                                    <div class="icon-box">
+                                        <i class="flaticon-phone-call"></i>
+                                    </div>
+                                    <div class="text-box">
+                                        <p>Phone</p>
+                                        <a href="tel:0123456789">08065864913</a>
+                                    </div>
+                                </li>
+                                <li class="d-flex flex-wrap align-items-center position-relative wow fadeInRight" data-wow-delay=".5s">
+                                    <div class="icon-box">
+                                        <i class="flaticon-mail-inbox-app"></i>
+                                    </div>
+                                    <div class="text-box">
+                                        <p>Email</p>
+                                        <a href="mailto:mail@mail.com">Aowebtech13@gmail.com</a>
+                                    </div>
+                                </li>
+                                <li class="d-flex flex-wrap align-items-center position-relative wow fadeInRight" data-wow-delay=".6s">
+                                    <div class="icon-box">
+                                        <i class="flaticon-location"></i>
+                                    </div>
+                                    <div class="text-box">
+                                        <p>Address</p>
+                                        <a href="#">Futa axis, Akure  <br>, Ondo state, Nigeria</a>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- CONTACT SECTION END -->
+
+        <!-- BEGIN: Contact Form Success Modal Message -->
+        <div class="modal contact_modal" id="message_sent" tabindex="-1">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <span class="modal-title"><strong>Message Sent Successfully</strong></span>
+                        <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close"><i class="fas fa-times"></i></button>
+                    </div>
+                    <div class="modal-body">
+                        <p>Thank you for contacting us. We will get back to you shortly.<br>Have a great day!</p>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn" data-bs-dismiss="modal">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- END: Contact Form Success Modal Message -->
+
+        <!-- BEGIN: Contact Form Fail Modal Message -->
+        <div class="modal contact_modal failed" id="message_fail" tabindex="-1">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <span class="modal-title"><strong>Error</strong></span>
+                        <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close"><i class="fas fa-times"></i></button>
+                    </div>
+                    <div class="modal-body">
+                        <p>Oops! Something went wrong, please try again.</p>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn" data-bs-dismiss="modal">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- END: Contact Form Fail Modal Message End -->
+    </main>
+
+    <!-- FOOTER AREA START -->
+    <footer class="tj-footer-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <div class="footer-logo-box">
+                        <a href="#"><img src="assets/img/logo/logo.png" alt=""></a>
+                    </div>
+                    <div class="footer-menu">
+                        <nav>
+                            <ul>
+                                                <li><a href="index.php">Home</a></li>
+                                <li><a href="#works-section">Works</a></li>
+                                <li><a href="#resume-section">Resume</a></li>
+                                <li><a href="#skills-section">Skills</a></li>
+                                <li><a href="#testimonials-section">Testimonials</a></li>
+                                <li><a href="#contact-section">Contact</a></li>
+                            </ul>
+                        </nav>
+                    </div>
+                    <div class="copy-text">
+                        <p>&copy; 2024 All rights reserved by <a href="#" target="_blank">A.O webtech</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- FOOTER AREA END -->
+
+
+    <!-- CSS here -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/nice-select.min.js"></script>
+    <script src="assets/js/backToTop.js"></script>
+    <script src="assets/js/smooth-scroll.js"></script>
+    <script src="assets/js/appear.min.js"></script>
+    <script src="assets/js/wow.min.js"></script>
+    <script src="assets/js/gsap.min.js"></script>
+    <script src="assets/js/one-page-nav.js"></script>
+    <script src="assets/js/lightcase.js"></script>
+    <script src="assets/js/owl.carousel.min.js"></script>
+    <script src="assets/js/isotope.pkgd.min.js"></script>
+    <script src="assets/js/odometer.min.js"></script>
+    <script src="assets/js/magnific-popup.js"></script>
+    <script src="assets/js/validate.min.js"></script>
+
+    <script src="assets/js/main.js"></script>
+</body>
+
+</html>

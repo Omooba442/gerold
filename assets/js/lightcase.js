@@ -437,7 +437,7 @@
 					break;
 				case 'inline':
 					$object = $('<div class="' + _self.settings.classPrefix + 'inlineWrap"></div>');
-					$object.html(_self._cloneObject($(_self.objectData.url)));
+					$object.php(_self._cloneObject($(_self.objectData.url)));
 
 					// Add custom attributes from _self.settings
 					$.each(_self.settings.inline, function (name, value) {
@@ -496,7 +496,7 @@
 		 */
 		_addObject: function ($object) {
 			// Add object to content holder
-			_self.objects.contentInner.html($object);
+			_self.objects.contentInner.php($object);
 
 			// Start loading
 			_self._loading('start');
@@ -506,7 +506,7 @@
 
 			// Add sequenceInfo to the content holder or hide if its empty
 			if (_self.settings.showSequenceInfo === true && _self.objectData.isPartOfSequence) {
-				_self.objects.sequenceInfo.html(_self.objectData.sequenceInfo);
+				_self.objects.sequenceInfo.php(_self.objectData.sequenceInfo);
 				_self.objects.sequenceInfo.show();
 			} else {
 				_self.objects.sequenceInfo.empty();
@@ -514,7 +514,7 @@
 			}
 			// Add title to the content holder or hide if its empty
 			if (_self.settings.showTitle === true && _self.objectData.title !== undefined && _self.objectData.title !== '') {
-				_self.objects.title.html(_self.objectData.title);
+				_self.objects.title.php(_self.objectData.title);
 				_self.objects.title.show();
 			} else {
 				_self.objects.title.empty();
@@ -522,7 +522,7 @@
 			}
 			// Add caption to the content holder or hide if its empty
 			if (_self.settings.showCaption === true && _self.objectData.caption !== undefined && _self.objectData.caption !== '') {
-				_self.objects.caption.html(_self.objectData.caption);
+				_self.objects.caption.php(_self.objectData.caption);
 				_self.objects.caption.show();
 			} else {
 				_self.objects.caption.empty();
@@ -564,7 +564,7 @@
 									if (_self.objectData.requestDataType === 'json') {
 										_self.objectData.data = data;
 									} else {
-										$object.html(data);
+										$object.php(data);
 									}
 									_self._showContent($object);
 								}
@@ -609,8 +609,8 @@
 			_self.objectData.type = 'error';
 			var $object = $('<div class="' + _self.settings.classPrefix + 'inlineWrap"></div>');
 
-			$object.html(_self.settings.errorMessage);
-			_self.objects.contentInner.html($object);
+			$object.php(_self.settings.errorMessage);
+			_self.objects.contentInner.php($object);
 
 			_self._showContent(_self.objects.contentInner);
 		},
@@ -1521,7 +1521,7 @@
 		_cacheObjectData: function ($object) {
 			$.data($object, 'cache', {
 				id: $object.attr('id'),
-				content: $object.html()
+				content: $object.php()
 			});
 
 			_self.cache.originalObject = $object;
@@ -1536,7 +1536,7 @@
 			var $object = $('[id^="' + _self.settings.idPrefix + 'temp-"]');
 
 			$object.attr('id', $.data(_self.cache.originalObject, 'cache').id);
-			$object.html($.data(_self.cache.originalObject, 'cache').content);
+			$object.php($.data(_self.cache.originalObject, 'cache').content);
 		},
 
 		/**
